@@ -15,4 +15,4 @@ Tilde (~): To allow an npm dependency to update to the latest PATCH version
 
 Caret(^): Will allow both MINOR updates and PATCHes
 
-Important note: I copied this notes from FreeCodeCamp (https://www.freecodecamp.org), not my work. You can visit their website from the mentioned link.
+❗Important note: I copied this notes from FreeCodeCamp (https://www.freecodecamp.org), not my work. You can visit their website from the mentioned link.
