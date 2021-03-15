@@ -14,4 +14,4 @@ The MAJOR version should increment when you make incompatible API changes. The M
 Tilde (~): To allow an npm dependency to update to the latest PATCH version
 Caret(^): Will allow both MINOR updates and PATCHes
 
-Note: This notes is from FreeCodeCamp (https://www.freecodecamp.org), not my work. You can checkout their website from the mentioned link.
+Note: This notes is from FreeCodeCamp (https://www.freecodecamp.org), not my work. You can visit their website from the mentioned link.
