@@ -1,6 +1,7 @@
 # npm-package-manage
 
 Manage npm Dependencies By Understanding Semantic Versioning
+
 source: https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/manage-npm-dependencies-by-understanding-semantic-versioning
 
 Versions of the npm packages in the dependencies section of your package.json file follow what’s called Semantic Versioning (SemVer), an industry standard for software versioning aiming to make it easier to manage dependencies. Libraries, frameworks or other tools published on npm should use SemVer in order to clearly communicate what kind of changes projects can expect if they update.
